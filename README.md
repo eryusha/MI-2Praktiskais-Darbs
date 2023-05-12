@@ -1,6 +1,7 @@
 # RTU Mākslīgs intelekts (2023), 2. praktiskais darbs, Ē. Pujats
 <br>
-Orange Rīka darba fails - **MI2PD_Pujats.ows**<br><br>
+Orange Rīka darba fails - **MI2PD_Pujats.ows**
+<br><br>
 
 
 Datu kopa:<br>
