@@ -1,10 +1,10 @@
 # RTU Mākslīgs intelekts (2023), 2. praktiskais darbs
 
-Datu kopa: 
+Datu kopa:<br>
 https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling#
 
-Informācija par datu kopu:
-Autori        -  H. T. Kahraman, I. Colak, S. Sagiroglu 
+Informācija par datu kopu:<br>
+Autori        -  H. T. Kahraman, I. Colak, S. Sagiroglu <br>
 Pētījuma gads -  2009
 
 
