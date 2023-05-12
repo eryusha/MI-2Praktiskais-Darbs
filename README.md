@@ -1,1 +1,4 @@
-Mākslīgā intelekta 2. praktiskais darbs, 2023
+Mākslīgs intelekts (2023), 2. praktiskais darbs
+
+Datu kopa:
+https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling#
