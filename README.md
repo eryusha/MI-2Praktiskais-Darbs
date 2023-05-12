@@ -4,8 +4,10 @@ Datu kopa:<br>
 https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling#
 
 Informācija par datu kopu:<br>
-Autori        -  H. T. Kahraman, I. Colak, S. Sagiroglu <br>
-Pētījuma gads -  2009
+
+| Autori        | H. T. Kahraman, I. Colak, S. Sagiroglu <br>
+|-------------- | --------------------------------------
+| Pētījuma gads | 2009
 
 
 ## Atzinība:
