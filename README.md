@@ -1,0 +1,1 @@
+Mākslīgā intelekta 2. praktiskais darbs, 2023
