@@ -1,4 +1,4 @@
-# RTU Mākslīgs intelekts (2023), 2. praktiskais darbs
+# RTU Mākslīgs intelekts (2023), 2. praktiskais darbs, Ē. Pujats
 
 Datu kopa:<br>
 https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling#
